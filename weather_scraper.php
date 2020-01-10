@@ -48,7 +48,7 @@
       */
 
       html {
-        background: url("images/sunset.jpg") no-repeat center center fixed;
+        background: url("assets/images/sunset.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
